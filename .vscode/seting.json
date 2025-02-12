@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "workbench.colorTheme": "Visual Studio Dark",
+  "terminal.integrated.shell.linux": "/bin/bash"
+}
